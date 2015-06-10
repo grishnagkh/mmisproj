@@ -9,8 +9,6 @@ import java.util.PriorityQueue;
 
 import javax.imageio.ImageIO;
 
-import seamcarving.ThreadPool;
-
 public class Main {
 
 	/*
